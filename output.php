@@ -69,7 +69,7 @@
                 <div class="card bg-dark text-white">
                     <img src="images\socialmedia.PNG" height="350" width="100" class="card-img" alt="...">
                     <div class="card-img-overlay">
-                      <h5 class="card-title">HomePage</h5>
+                      <h5 class="card-title">Social Media Sites</h5>
                       
                     </div>
                   </div>
