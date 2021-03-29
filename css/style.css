@@ -1,0 +1,14 @@
+.bgcolor{
+    background-color:darkseagreen;
+   /* background-image:image() */
+}
+.h1{
+    color:rgb(15, 22, 1);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h6{
+    text-align: start;
+    font-size: 18;
+
+}
