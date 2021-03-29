@@ -38,7 +38,7 @@
             <div class="col col-12 col-sm-12 col-m-2 col-lg-2"></div>
             <div class="col col-12 col-sm-12 col-m-8 col-lg-8">
                 <br>
-                <h1 class="h1">CUSTOMER SATISFACTION AMONG EBYIS</h1>
+                <h1 class="h1">CUSTOMER SATISFACTION AMONG E-BUYERS</h1>
                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">

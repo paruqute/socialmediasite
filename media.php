@@ -41,6 +41,20 @@
         <div class="row">
             <div class="col col-12 col-sm-12 col-m-12">
                 <div class="card-group">
+                <div class="card">
+                      <img src="images\simg6.png"  height="300" width="80" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Flipkart</h5>
+                        
+                      </div>
+                    </div>
+                   
+                    <div class="card">
+                      <img src="images\simg7.jpg"  height="300" width="80" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Amazon</h5>
+                        </div>
+                    </div>
                     <div class="card">
                       <img src="images\simg8.jpg" height="300" width="80" class="card-img-top" alt="...">
                       <div class="card-body">
@@ -49,19 +63,7 @@
                         
                       </div>
                     </div>
-                    <div class="card">
-                      <img src="images\simg7.jpg"  height="300" width="80" class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Amazon</h5>
-                        </div>
-                    </div>
-                    <div class="card">
-                      <img src="images\simg6.png"  height="300" width="80" class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Flipart</h5>
-                        
-                      </div>
-                    </div>
+                   
                   </div>
                 
             </div>
