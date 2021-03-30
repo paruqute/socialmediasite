@@ -24,7 +24,7 @@
                 <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="media.php">Social Media Sites</a>
+                <a class="nav-link" href="media.php">Online Shopping sites</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="output.php">Output</a>

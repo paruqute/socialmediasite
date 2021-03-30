@@ -24,7 +24,7 @@
                 <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="media.php">Social Media Sites</a>
+                <a class="nav-link" href="media.php">Online Shopping Sites</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="output.php">Output</a>
@@ -39,13 +39,9 @@
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-12 col-m-12">
-                <h6 class="h6">Social Media</h6>
-                <p>Social Media are interactive computer mediated technologies that facilitate the creation or
-                    sharing of information, ideas,career interests and other forms of expressions such as viryual communities
-                    and networks.Te variety of stand alone ad built in social media services currently available introduces challenges of definition.Users engage with social media via computer,tablets or smartphones etc.<br>
-                    Sozial media's initial purpose was to connect people and allow them to share information. Now, social media can be a powerful tool for users to voice their opinion on a product or brand with faster speed and broader reach. With 81% of consumers considering purchases based on a friend's suggestions,
-                    there's no denying the influence it has on your target market.
-
+                <h6 class="h6">Customer Satisfaction</h6>
+                <p>
+                Online shopping is the process of buying goods and services from merchants over the internet. Since the emergence of the world wide web, merchants have sought to sell their products to people who spend time online. Shoppers can visit web stores from their homes and shop as they sit in front of the computer. Consumers can buy a huge variety of items from online stores and can be purchased from companies that provide their products through online. Consumers can buy books, clothing, household appliances, toys, hardware and software from an online store. Many people choose to shop online because of the convenience. Many researchers and academia have highlighted the importance of customers in today's market. The level of satisfaction of customer with a company has profound effects. Thus, though customer satisfaction does not guarantee the repurchase from a company but it does play a very important role in achieving customer loyalty. Present study provides the company with the necessary insight in order to retain and increase customer base, improve customer relationships and focuses an overview about online shopping and the satisfaction level of the customers.
                 </p>
             </div>
         </div>

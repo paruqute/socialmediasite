@@ -24,7 +24,7 @@
                 <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="media.php">Social Media Sites</a>
+                <a class="nav-link" href="media.php">Online Shopping Sites</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="output.php">Output</a>
@@ -35,7 +35,7 @@
       </nav>
       <br><br>
       
-    <h5 class="h1">Social Media Sites</h5>
+    <h5 class="h1">Top Online Shopping Sites</h5>
     <br>
     <div class="container">
         <div class="row">

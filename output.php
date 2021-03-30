@@ -24,7 +24,7 @@
                 <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="media.php">Social Media Sites</a>
+                <a class="nav-link" href="media.php">Online Shopping Sites</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="output.php">Output</a>
@@ -34,7 +34,7 @@
         </div>
       </nav>
       <br>
-    <h5 class="h1">OutPuts</h5>
+    <h5 class="h1">Output</h5>
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-12 col-m-12">
@@ -69,7 +69,7 @@
                 <div class="card bg-dark text-white">
                     <img src="images\socialmedia.PNG" height="350" width="100" class="card-img" alt="...">
                     <div class="card-img-overlay">
-                      <h5 class="card-title">Social Media Sites</h5>
+                      <h5 class="card-title">Online Shopping Sites</h5>
                       
                     </div>
                   </div>
